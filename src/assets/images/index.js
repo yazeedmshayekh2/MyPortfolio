@@ -7,7 +7,7 @@ import logo from './logo.svg'
 import university from './University_of_Jordan_Logo.png'
 import shai from './shaiclub_logo.jpg'
 import smsm from './1707308158657.jpg'
-import medformer from './MedFormer.png'
+import medformer from './Medformer.png'
 import IEEECS from './images.png'
 import AI from './images-removebg-preview.png'
 
