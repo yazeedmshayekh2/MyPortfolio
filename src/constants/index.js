@@ -27,7 +27,8 @@ import {
     novel,
     deep,
     ML,
-    RAG
+    RAG,
+    hf
 } from "../assets/icons";
 
 export const skills = [
@@ -115,6 +116,11 @@ export const skills = [
         imageUrl: mistral,
         name: "mistral",
         type: "LLMs",
+    },
+    {
+        imageUrl: hf,
+        name: "Huggingface",
+        type: "LLMs hub",
     },
     {
         imageUrl: VScode,

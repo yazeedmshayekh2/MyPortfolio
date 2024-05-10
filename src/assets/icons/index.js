@@ -49,6 +49,7 @@ import novel from './open-book.png'
 import deep from './deep.png'
 import ML from './ML.png'
 import RAG from './NLP.png'
+import hf from './hf-logo.svg'
 
 export {
     css,
@@ -101,5 +102,6 @@ export {
     novel,
     deep,
     ML,
-    RAG
+    RAG,
+    hf
 }
