@@ -241,11 +241,6 @@ export const Volunteering = [
 
 export const socialLinks = [
     {
-        name: 'Contact',
-        iconUrl: contact,
-        link: '/contact',
-    },
-    {
         name: 'GitHub',
         iconUrl: github,
         link: 'https://github.com/yazeedmshayekh2',
@@ -253,7 +248,7 @@ export const socialLinks = [
     {
         name: 'LinkedIn',
         iconUrl: linkedin,
-        link: 'https://www.linkedin.com/in/yazeed-mshayekh-924aa9235/',
+        link: 'https://www.linkedin.com/in/yazeedmshayekh',
     }
 ];
 
